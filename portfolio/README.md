@@ -19,7 +19,7 @@ A modern, fully responsive personal portfolio website built with **React**, **Vi
 
 ### 🧭 Header
 
-![Header Screenshot](./portfolio/src/assets/screenshots/header-screenshot.png)
+![Header Screenshot](./src/assets/Screenshots/header-screenshot.png)
 
 ### 🏠 Home
 
