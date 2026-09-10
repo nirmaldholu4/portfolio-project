@@ -26,35 +26,35 @@ The portfolio features a sleek dark theme with vibrant orange accents, smooth ho
 
 ### 🧭 Header
 
-![Header Screenshot](./src/assets/screenshots/header-screenshot.png)
+![Header Screenshot](./src/assets/Screenshot/header-screenshot.png)
 
 ### 🏠 Home
 
-![Home Screenshot](./src/assets/screenshots/home-screenshot.png)
+![Home Screenshot](./src/assets/Screenshot/home-screenshot.png)
 
 ### 🛠️ Services
 
-![Services Screenshot](./src/assets/screenshots/services-screenshot.png)
+![Services Screenshot](./src/assets/Screenshot/services-screenshot.png)
 
 ### 👤 About
 
-![About Screenshot](./src/assets/screenshots/about-screenshot.png)
+![About Screenshot](./src/assets/Screenshot/about-screenshot.png)
 
 ### 💪 Skills
 
-![Skills Screenshot](./src/assets/screenshots/skills-screenshot.png)
+![Skills Screenshot](./src/assets/Screenshot/skills-screenshot.png)
 
 ### 💼 Projects
 
-![Projects Screenshot](./src/assets/screenshots/projects-screenshot.png)
+![Projects Screenshot](./src/assets/Screenshot/projects-screenshot.png)
 
 ### 📩 Contact
 
-![Contact Screenshot](./src/assets/screenshots/contact-screenshot.png)
+![Contact Screenshot](./src/assets/Screenshot/contact-screenshot.png)
 
 ### 🔗 Footer
 
-![Footer Screenshot](./src/assets/screenshots/footer-screenshot.png)
+![Footer Screenshot](./src/assets/Screenshot/footer-screenshot.png)
 
 ---
 
