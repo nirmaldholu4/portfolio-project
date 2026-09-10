@@ -11,7 +11,7 @@ A modern, fully responsive personal portfolio website built with **React**, **Vi
 
 ## 🎥 Demo Video
 
-> 📌 **[Watch the Demo Video Here](#)** — *([text](https://drive.google.com/file/d/1FPkb8U80QnExT7-AhFc30CkL4iTgrx-d/view?usp=sharing))*
+> 📌 **[Watch the Demo Video Here](#)** — *(https://drive.google.com/file/d/1FPkb8U80QnExT7-AhFc30CkL4iTgrx-d/view?usp=sharing)*
 
 ---
 
