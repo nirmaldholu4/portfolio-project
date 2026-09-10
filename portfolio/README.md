@@ -19,15 +19,15 @@ A modern, fully responsive personal portfolio website built with **React**, **Vi
 
 ### 🧭 Header
 
-![Header Screenshot](./src/assets/Screenshots/header-screenshot.png)
+![Header Screenshot](./portfolio/src/assets/Screenshots/header-screenshot.png)
 
 ### 🏠 Home
 
-![Home Screenshot](./portfolio/src/assets/screenshots/home-screenshot.png)
+![Home Screenshot](./portfolio/src/assets/Screenshots/home-screenshot.pn)
 
 ### 🛠️ Services
 
-![Services Screenshot](./portfolio/src/assets/screenshots/services-screenshot.png)
+![Services Screenshot](./portfolio/src/assets/Screenshots/services-screenshot.png)
 
 ### 👤 About
 
@@ -35,19 +35,19 @@ A modern, fully responsive personal portfolio website built with **React**, **Vi
 
 ### 💼 Skills
 
-![Skills Screenshot](./portfolio/src/assets/screenshots/skills-screenshot.png)
+![Skills Screenshot](./portfolio/src/assets/Screenshots/skills-screenshot.png)
 
 ### 💼 Projects
 
-![Projects Screenshot](./portfolio/src/assets/screenshots/projects-screenshot.png)
+![Projects Screenshot](./portfolio/src/assets/Screenshots/projects-screenshot.png)
 
 ### 📩 Contact
 
-![Contact Screenshot](./portfolio/src/assets/screenshots/contact-screenshot.png)
+![Contact Screenshot](./portfolio/src/assets/Screenshots/contact-screenshot.png)
 
 ### 🔗 Footer
 
-![Footer Screenshot](./portfolio/src/assets/screenshots/footer-screenshot.png)
+![Footer Screenshot](./portfolio/src/assets/Screenshots/footer-screenshot.png)
 
 ---
 
