@@ -31,7 +31,7 @@ A modern, fully responsive personal portfolio website built with **React**, **Vi
 
 ### 👤 About
 
-![About Screenshot](./portfolio/src/assets/screenshots/about-screenshot.png)
+![About Screenshot](./portfolio/src/assets/Screenshot/about-screenshot.png)
 
 ### 💼 Skills
 
